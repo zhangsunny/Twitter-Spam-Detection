@@ -1,0 +1,9 @@
+DROP = 0.5
+UNIT = 10
+
+BATCH = 1024
+EPOCH = 500
+LR = 1e-2
+VERB = False
+TEST_SIZE = 0.4
+BILINEAR = True
